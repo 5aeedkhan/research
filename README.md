@@ -234,4 +234,4 @@ This project is for research and educational purposes. Please cite the original 
 
 ---
 
-**🎯 Ready to advance speech disorder diagnosis with AI!**
+**🎯 This code right here is Developed according to the research paper i have which i have to follow to make my own Research for Mphil CS**
